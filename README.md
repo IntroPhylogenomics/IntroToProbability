@@ -6,3 +6,4 @@
 - [Prediction and Inference (RevBayes Exercise)](https://github.com/IntroPhylogenomics/IntroToProbability/blob/main/PredictionInference.md)
 - [Inferring the Mean of a Normal Distribution with Maximum Likelihood (RevBayes Exercise)](https://github.com/IntroPhylogenomics/IntroToProbability/blob/main/ML_NormalMean.md)
 - [Discrete Markov Chains (RevBayes Exercise)](https://github.com/IntroPhylogenomics/IntroToProbability/blob/main/DiscreteMarkovChains.md)
+- [Bootstrapped Confidence Interval for a Mean (RevBayes Exercise)]()
